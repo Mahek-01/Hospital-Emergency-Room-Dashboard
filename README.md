@@ -10,6 +10,9 @@ This project presents a comprehensive dashboard analyzing emergency room operati
 - Understand demographic breakdowns by age and gender
 - Identify referral patterns across departments
 
+## Dataset Used
+<a href="https://github.com/Mahek-01/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">Hospital Emergency Room Data</a>
+
 ## 📊 KPIs Included
 - **Number of Patients**: Daily trends to identify peak times and seasonal patterns
 - **Average Wait Time**: Monitoring efficiency and patient flow
