@@ -25,6 +25,17 @@ This project presents a comprehensive dashboard analyzing emergency room operati
 ## Dashboard
 <img width="1233" height="607" alt="Screenshot 2025-09-04 003516" src="https://github.com/user-attachments/assets/6b848ca9-925e-4b7b-8a22-22d76185f016" />
 
+- ** No. of Patient
+<img width="1578" height="526" alt="Screenshot 2025-09-04 103523" src="https://github.com/user-attachments/assets/0f0e8fb4-1535-40d8-8250-172ad9f44aa6" />
+
+- ** Avg Patient Wait time
+<img width="1731" height="580" alt="Screenshot 2025-09-04 103717" src="https://github.com/user-attachments/assets/cc166927-f503-4a77-8a0c-75884cb32744" />
+
+- ** Avg Patient Satisfaction
+<img width="1604" height="543" alt="Screenshot 2025-09-04 103315" src="https://github.com/user-attachments/assets/7bc929d8-302b-4149-a0cc-4a3acafe24c4" />
+
+
+
 ## 🛠️ Tools & Technologies
 - Excel 
 - Data cleaning and transformation
