@@ -22,6 +22,9 @@ This project presents a comprehensive dashboard analyzing emergency room operati
 - **Age & Gender Distribution**: Demographic insights
 - **Department Referrals**: Referral trends across specialties
 
+## Dashboard
+<img width="1233" height="607" alt="Screenshot 2025-09-04 003516" src="https://github.com/user-attachments/assets/6b848ca9-925e-4b7b-8a22-22d76185f016" />
+
 ## 🛠️ Tools & Technologies
 - Excel 
 - Data cleaning and transformation
