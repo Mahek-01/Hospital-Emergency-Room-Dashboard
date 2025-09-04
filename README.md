@@ -20,8 +20,7 @@ This project presents a comprehensive dashboard analyzing emergency room operati
 - **Department Referrals**: Referral trends across specialties
 
 ## 🛠️ Tools & Technologies
-- Power BI / Tableau / Excel (specify your tool)
+- Excel 
 - Data cleaning and transformation
 - Visualization and dashboard design
 
-## 📁 Repository Structure
